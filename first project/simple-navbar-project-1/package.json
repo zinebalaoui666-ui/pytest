@@ -1,0 +1,21 @@
+{
+  "name": "simple-navbar-project",
+  "version": "1.0.0",
+  "description": "A simple web project demonstrating a basic navigation bar using CSS.",
+  "main": "src/js/main.js",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "keywords": [
+    "navbar",
+    "css",
+    "html",
+    "javascript"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
